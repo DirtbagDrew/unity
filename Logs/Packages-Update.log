@@ -1,5 +1,5 @@
 
-=== Wed Jan 29 22:42:56 2020
+=== Thu Jan 30 18:48:01 2020
 
 Packages were changed.
 Update Mode: mergeDefaultDependencies
@@ -41,3 +41,14 @@ The following packages were added:
   com.unity.modules.vr@1.0.0
   com.unity.modules.wind@1.0.0
   com.unity.modules.xr@1.0.0
+
+=== Thu Jan 30 18:51:40 2020
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.cinemachine@2.2.7
+  com.unity.postprocessing@2.1.2
+The following packages were updated:
+  com.unity.ads from version 2.0.8 to 2.3.1
