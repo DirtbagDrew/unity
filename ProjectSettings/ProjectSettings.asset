@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: 3d beginner
+  productName: 3D Beginner2
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -240,7 +240,7 @@ PlayerSettings:
   iOSRequireARKit: 0
   iOSAutomaticallyDetectAndAddCapabilities: 1
   appleEnableProMotion: 0
-  clonedFromGUID: 6061c5c3fda7e6b41af0e6cfabb25a28
+  clonedFromGUID: f150970f56e253b4bb122e4cef1cb33c
   templatePackageId: 
   templateDefaultScene: 
   AndroidTargetArchitectures: 1
